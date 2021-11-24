@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Haji
+comment1.params=nama\ noRekening\ saldoAwal
+comment1.target=Haji(java.lang.String,\ long,\ double)
+comment2.params=jumlahPenarikan
+comment2.target=void\ tarikUang(double)
+numComments=3

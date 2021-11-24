@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tabungan
+comment1.params=
+comment1.target=Tabungan()
+comment2.params=nama\ noRekening
+comment2.target=Tabungan(java.lang.String,\ long)
+comment3.params=saldo_minimum
+comment3.target=void\ setSaldoMinimum(double)
+comment4.params=setoran_minimum
+comment4.target=void\ setSetoranMinimum(double)
+comment5.params=
+comment5.target=double\ getSaldo()
+comment6.params=saldo
+comment6.target=void\ setSaldo(double)
+comment7.params=uang
+comment7.target=void\ simpanUang(double)
+comment8.params=jumlahPenarikan
+comment8.target=void\ tarikUang(double)
+numComments=9
